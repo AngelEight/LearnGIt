@@ -9,7 +9,7 @@ git add fileName	-- 	submit file to repository
 
 git submit -m "describe" -- submit file to repository
 
-git submit -a "describe"
+git submit -a "describe"     
 
 git status 				-- show file is change
 
@@ -18,13 +18,21 @@ git diff fileName		-- show file difference
 -- order git status or git diff filename --> git add -->git status -->git commit -m "describe"
 
 
-git log 			-- show commit log 
+git log 					-- show commit log 
 
 git log --pretty=oneline   --pretty equals beautiful
 
--- git use "head" represents the current version ,
+-- git use "head" represents the current version ,head represents before version .
 
-git reset --h
+git reset --hard head^
+
+-- if you want reback to some hard ,but you don't know id,you can use 'git reflog' ,it`s record all operation.than use 'git  reset --hard id'
+
+git  reflog
+
+git reset --hard id
+
+
 
 
 

@@ -17,4 +17,21 @@ git diff fileName		-- show file difference
 
 -- order git status or git diff filename --> git add -->git status -->git commit -m "describe"
 
+
+git log 			-- show commit log 
+
+git log --pretty=oneline   --pretty equals beautiful
+
+-- git use "head" represents the current version ,
+
+git reset --h
+
+
+
+
+
+
+
+
+
 			

@@ -72,4 +72,8 @@ git push origin dev
 
 
 git@github.com:AngelEight/LearnGIt.git
+
+git push origin dev
+
+git pull
 			

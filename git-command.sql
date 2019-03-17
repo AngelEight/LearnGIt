@@ -77,3 +77,5 @@ step：
 git push origin dev
 
 git pull 
+
+git pull orign dev

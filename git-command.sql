@@ -38,13 +38,45 @@ git reset --hard id
 
 -- git checkout -- filename , -- reback to file lately update
 
--- hh update
+-- create branch dome
 
+-- git checkout -b  dev equles  git branck dev   git checkout dev
 
+git checkout branchname
 
+git merge branchname  
 
+git branch -d branchname1 branchname2
 
+git merge no-ff -m "" branchname  -ff(fast forward)
 
+git log --graph --pretty=oneline --abbrev-commit
 
+--exit log command input  q  exit vim  input c and big ZZ
 
-			
+-- git stash 
+
+-- git stash list 
+
+-- git stash pop
+
+-- git stash apply  -- git stash drop
+
+git remote  view 
+
+git remote -v
+
+git push origin master
+
+git push origin dev
+
+git@github.com:AngelEight/LearnGIt.git
+
+step：
+
+git push origin dev
+
+git pull 
+
+git pull orign dev
+11111111

@@ -2,6 +2,8 @@
 
 pwd 				-- print working directory 显示档期当前目录
 
+git init            --  new a directory or repository.
+
 ls -a	  			--	ls 工作目录下文件以及子目录 
 					--	-a 所有文件以及目录（除隐藏外） 
 					

@@ -72,4 +72,12 @@ git push origin dev
 
 
 git@github.com:AngelEight/LearnGIt.git
+
+step：
+
+git push origin dev
+
+git pull 
+
+
 			

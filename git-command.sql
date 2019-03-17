@@ -48,10 +48,12 @@ git merge branchname
 
 git branch -d branchname1 branchname2
 
---no-ff
+git merge no-ff -m "" branchname  -ff(fast forward)
 
+git log --graph --pretty=oneline --abbrev-commit
 
-dev 
+--exit log command input  q  exit vim  input c and big ZZ
+
 
 
 

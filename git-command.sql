@@ -48,12 +48,6 @@ git merge branchname
 
 git branch -d branchname1 branchname2
 
-<<<<<< HEAD
-222
-=======
-11111
->>>>>>> b
-
 
 
 

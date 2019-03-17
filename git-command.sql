@@ -73,7 +73,6 @@ git push origin dev
 
 git@github.com:AngelEight/LearnGIt.git
 
-<<<<<<< HEAD
 step：
 
 git push origin dev
@@ -81,9 +80,4 @@ git push origin dev
 git pull 
 
 
-=======
-git push origin dev
 
-git pull
->>>>>>> fe68eef2e06ae64dc8dc92d55bd7f2ca9a346f7d
-			

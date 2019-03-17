@@ -70,21 +70,3 @@ git push origin master
 
 git push origin dev
 
-
-git@github.com:AngelEight/LearnGIt.git
-
-step：
-
-git push origin dev
-
-<<<<<<< HEAD
-git pull
-8888888888888888
-3
-=======
-git pull 
-
-99999999999999999999999999999999
-
-
->>>>>>> fe1553e8cb7b99195910185eccbf3b70c0623ef1

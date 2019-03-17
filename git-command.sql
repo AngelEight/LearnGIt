@@ -42,7 +42,7 @@ git reset --hard id
 
 -- git checkout -b  dev equles  git branck dev   git checkout dev
 
-
+git checkout branchname
 
 
 

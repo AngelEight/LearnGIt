@@ -36,7 +36,7 @@ git  reflog
 
 git reset --hard id
 
--- git chckout -- filename , -- reback to file lately update
+-- git checkout -- filename , -- reback to file lately update
 
 
 

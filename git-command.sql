@@ -15,7 +15,9 @@ git submit -a "describe"
 
 git status 				-- show file is change
 
-git diff fileName		-- show file difference
+git diff -- fileName		-- show file difference
+
+git diff head -- filename
 
 -- order git status or git diff filename --> git add -->git status -->git commit -m "describe"
 

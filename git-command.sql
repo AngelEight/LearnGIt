@@ -38,6 +38,8 @@ git reset --hard id
 
 -- git checkout -- filename , -- reback to file lately update
 
+-- hh update
+
 
 
 

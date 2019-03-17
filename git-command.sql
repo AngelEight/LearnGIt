@@ -54,6 +54,8 @@ git log --graph --pretty=oneline --abbrev-commit
 
 --exit log command input  q  exit vim  input c and big ZZ
 
+-- stash01 no add
+
 
 
 

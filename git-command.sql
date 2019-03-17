@@ -38,6 +38,10 @@ git reset --hard id
 
 -- git checkout -- filename , -- reback to file lately update
 
+-- create branch dome
+
+-- git checkout -b  dev equles  git branck dev   git checkout dev
+
 
 
 

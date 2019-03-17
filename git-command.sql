@@ -54,9 +54,22 @@ git log --graph --pretty=oneline --abbrev-commit
 
 --exit log command input  q  exit vim  input c and big ZZ
 
--- stash01 no add
+-- git stash 
+
+-- git stash list 
+
+-- git stash pop
+
+-- git stash apply  -- git stash drop
+
+git remote  view 
+
+git remote -v
+
+git push origin master
+
+git push origin dev
 
 
-
-
+git@github.com:AngelEight/LearnGIt.git
 			

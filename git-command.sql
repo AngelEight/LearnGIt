@@ -44,6 +44,12 @@ git reset --hard id
 
 git checkout branchname
 
+git merge branchname  
+
+git branch -d branchname1 branchname2
+
+
+
 
 
 
